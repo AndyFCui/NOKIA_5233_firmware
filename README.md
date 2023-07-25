@@ -9,7 +9,8 @@
     ☆ Accelerated boot-up by disabling default start-up information, contacts, call logs, and other program files at boot time, optimizing boot speed
 
     ☆ Modified theme elements to Samsung phone theme elements (as shown in the figure), the four shortcut keys at the bottom were changed from left to right as follows: Phone》Contacts》Messages》Menu
-    ![image](https://github.com/AndyFCui/NOKIA_5233_firmware/assets/10085168/17c210c4-eac5-4ae0-aa7c-104265f54a85)
+
+  ![image](https://github.com/AndyFCui/NOKIA_5233_firmware/assets/10085168/17c210c4-eac5-4ae0-aa7c-104265f54a85)
 
     <span style="color:red">P.S: The official firmware of Nokia 5233 has only two shortcut keys: Phone and Contacts</span>
     
