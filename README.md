@@ -32,6 +32,7 @@ Note: 本来应该有一个网页写的我得名字，可惜年代久远这个�
 - Author: Andy Cui
 - Build: May 16, 2012
 - Phone version: Nokia 5233
+- ![windows xy phone 版本验证](https://github.com/AndyFCui/NOKIA_5233_firmware/assets/10085168/41833e43-750a-4e71-8575-a27f33095013)
 - Feature: 
     ☆ Accelerated boot-up by disabling default start-up information, contacts, call logs, and other program files at boot time, optimizing boot speed
 
@@ -62,6 +63,7 @@ Note: 本来应该有一个网页写的我得名字，可惜年代久远这个�
 - Author: Andy Cui (崔祥宇)
 - Build: May 16, 2012
 - Phone version: Nokia 5233
+- ![windows xy phone 版本验证](https://github.com/AndyFCui/NOKIA_5233_firmware/assets/10085168/41833e43-750a-4e71-8575-a27f33095013)
 - Feature: 
     ☆	开机加速，把开机默认启动的信息、通讯录、通话记录等程序文件在开机时关闭，优化了开机速度
 
@@ -78,7 +80,7 @@ Note: 本来应该有一个网页写的我得名字，可惜年代久远这个�
     ☆	优化了缓存的存储方案，把缓存的文件统统改存进内存卡内，减少手机内存的消耗
     
     ☆	更改了开机关机的动画和开机关机的声音 开机见图大概是这样的，关机也差不多
-    
+
     ![image](https://github.com/AndyFCui/NOKIA_5233_firmware/assets/10085168/63f5ce3f-1fb5-48e4-8d30-41ebabef9ee8)
     
     ☆	更改了切屏效果（我在5800W中提取的，但貌似效果并不明显
