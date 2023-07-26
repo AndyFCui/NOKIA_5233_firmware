@@ -65,7 +65,8 @@
 - Build: May 16, 2012
 - Phone version: Nokia 5233
 - ![windows xy phone 版本验证](https://github.com/AndyFCui/NOKIA_5233_firmware/assets/10085168/41833e43-750a-4e71-8575-a27f33095013)
-- Feature: 
+- Feature:
+  
     ☆	开机加速，把开机默认启动的信息、通讯录、通话记录等程序文件在开机时关闭，优化了开机速度
 
     ☆	修改了主题元素为三星手机主题元素 如图，更改的为底下的四个快捷键，由左到右依次为：电话》通讯录》信息》功能表
